@@ -5,30 +5,31 @@ Learning by building real-world projects and documenting my coding journey, one 
 
 A curated list of projects I've built across different tech stacks.
 
-Table of Contents
-C#
-C/C++
-Clojure
-Dart
-Elixir
-Erlang
-F#
-Go
-Haskell
-HTML/CSS
-Java
-JavaScript
-Kotlin
-Lua
-OCaml
-PHP
-Python
-R
-Ruby
-Rust
-Scala
-Swift
-Additional resources
+## Table of Contents
+
+- [C#](#c)
+- [C/C++](#cc)
+- [Clojure](#clojure)
+- [Dart](#dart)
+- [Elixir](#elixir)
+- [Erlang](#erlang)
+- [F#](#f)
+- [Go](#go)
+- [Haskell](#haskell)
+- [HTML/CSS](#html-and-css)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [Kotlin](#kotlin)
+- [Lua](#lua)
+- [OCaml](#ocaml)
+- [PHP](#php)
+- [Python](#python)
+- [R](#r)
+- [Ruby](#ruby)
+- [Rust](#rust)
+- [Scala](#scala)
+- [Swift](#swift)
+- [Additional Resources](#additional-resources)
 ---
 
 ## Python
